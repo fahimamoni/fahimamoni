@@ -1,22 +1,59 @@
-𝗛𝗶, 𝗜'𝗺 𝗠𝗼𝗻𝗶 👋
+<h1 align="center">Hi 👋, I'm Fahima Akther Moni</h1>
+<h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
-𝗔𝗯𝗼𝘂𝘁 𝗠𝗲:
-I am Fahima Akther Moni from Sylhet, Bangladesh. Currently, I am studying Bachelor of Computer Science and Engineering(CSE). 
+---
 
-𝗦𝗸𝗶𝗹𝗹𝘀:
-📍 Python
-📍Machine Learning
-📍PHP
-📍HTML
-📍C
-📍Microsoft Office
+## 🚀 About Me
+- 🎯 Passionate about Data Analytics & Business Insights  
+- 📊 Skilled in Excel, SQL, Power BI  
+- 🌱 Currently learning Python for Data Analysis  
+- 💡 Interested in solving real-world problems with data  
 
-𝗪𝗼𝗿𝗸:
-🎯I’m currently working on Machine Learning Project 
+---
 
-𝗖𝗼𝗻𝗻𝗲𝗰𝘁 𝗪𝗶𝘁𝗵 𝗠𝗲:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fahimamoni)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/fahima-akther-moni-215392294/)  
+## 🛠️ Skills
+- 📊 Excel (Dashboard, Pivot Table, Data Cleaning)  
+- 🗄️ SQL (Joins, Aggregations, Queries)  
+- 📈 Power BI (Interactive Dashboards, DAX Basics)  
+- 🐍 Python (Pandas, NumPy - Basic)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimamoni&show_icons=true)  
+---
 
+## 📌 Featured Projects
 
+### 🔹 Dengue Outbreak Analysis
+- 📊 Analyzed dengue cases in Dhaka city  
+- 📈 Built an interactive Excel dashboard  
+- 🔍 Identified trends by age, gender & location  
+
+👉 [View Project]( )
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night" />
+</p>
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: https://www.linkedin.com/in/fahima-akther-moni
+- 📧 Email: fahimaam25@gmail.com  
+
+---
+
+## ⚡ Fun Fact
+I enjoy transforming raw data into meaningful stories 📊✨

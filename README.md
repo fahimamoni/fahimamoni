@@ -26,7 +26,7 @@
 - 📈 Built an interactive Excel dashboard  
 - 🔍 Identified trends by age, gender & location  
 
-👉 [View Project]( )
+👉 [View Project]( https://github.com/fahimamoni/Dengue-Outbreak-Analysis-in-Dhaka-City )
 ---
 
 ## 📊 GitHub Stats

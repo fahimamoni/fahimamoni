@@ -3,7 +3,7 @@
 
 ---
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NueXF5czR5Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6Z3R6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjPZOK3D3UOkM/giphy.gif" width="500px" alt="Data Visualization" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-8563-0d30ef907a1b.gif" width="600px" alt="Data Science Animation" />
 </p>
 
 ---

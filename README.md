@@ -2,8 +2,9 @@
 <h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
 ---
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/anmol-baranwal-developer.svg" width="80%" alt="Data Analytics Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-8563-0d30ef907a1b.gif" width="600px" alt="Data Science Animation" />
 </p>
 
 ---

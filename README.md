@@ -53,6 +53,9 @@
 </p>
 
 ---
+![Snake animation](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 ## 📫 Connect With Me
 - 💼 LinkedIn: https://www.linkedin.com/in/fahima-akther-moni

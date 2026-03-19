@@ -3,7 +3,11 @@
 
 ---
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-8563-0d30ef907a1b.gif" width="600px" alt="Data Science Animation" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[apnar-username]&show_icons=true&theme=radical" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bc9-8563-0d30ef907a1b.gif" width="600" />
 </p>
 
 ---

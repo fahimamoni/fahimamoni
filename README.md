@@ -2,6 +2,11 @@
 <h3 align="center">Aspiring Data Analyst | Turning Data into Insights</h3>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/master/assets/anmol-baranwal-developer.svg" width="80%" alt="Data Analytics Animation" />
+</p>
+
+---
 
 ## 🚀 About Me
 - 🎯 Passionate about Data Analytics & Business Insights  
